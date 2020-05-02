@@ -1,0 +1,19 @@
+ body{
+	  background-image: url(image/bb.jpg);
+	  background-repeat: no-repeat;
+	  background-size: cover;
+	  }
+	  
+	  
+	  #main{
+	  width: 350px;
+    border: 1px solid white;
+    margin: auto;
+    background: #00000026;
+    box-shadow: -1px 10px 30px -5px;
+	}
+	
+	 #title h2{width:350px;border:1px solid black;background:#03a9f49e;color:white;text-align:center;}
+	#inputField input,select{width:99%;padding:12px;margin:2px;}
+	#gender{padding:12px;display:block;color: white;}
+	.submit input{background:#03a9f49e;border-color:#ffffffc9;}
